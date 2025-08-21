@@ -4,12 +4,12 @@
 
 Projeto desenvolvido em sala de aula, com o objetivo de praticar Programação Orientada a Objetos em Java, e criar exceçoes com fim de praticar.  
 
-## 🚀 Tecnologias
+## Tecnologias
 - Java
 - Programação Orientada a Objetos
 - Tratamento de Exceções Personalizadas
 
-## ⚡ Exceções Criadas
+## Exceções Criadas
 O projeto utiliza exceções próprias para validar os dados de entrada:
 
 - `PrecoInvalidoException` → preço deve ser maior que zero.
