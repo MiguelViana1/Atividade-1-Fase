@@ -1,4 +1,4 @@
-package exceçoes;
+package excecoes;
 
 import java.util.ArrayList;
 import java.util.Scanner;
